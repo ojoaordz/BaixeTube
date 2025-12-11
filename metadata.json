@@ -1,0 +1,5 @@
+{
+  "name": "TubeGenius - AI Video & Subtitle Tool",
+  "description": "A modern interface for processing YouTube videos with AI-powered subtitle generation and translation capabilities using Google Gemini.",
+  "requestFramePermissions": []
+}
